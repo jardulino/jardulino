@@ -1,4 +1,4 @@
-### Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,vue,graphql,html,css,sass)](https://skillicons.dev)
 
 <!--
 **jardulino/jardulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
