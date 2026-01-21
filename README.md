@@ -3,7 +3,7 @@
 I'm a TypeScript developer focused on frontend
 
 ![Jardulino's GitHub stats](https://github-readme-stats-pearl-five-54.vercel.app/api?username=jardulino&show_icons=true&rank_icon=percentile&include_all_commits=true&hide_title=true)
-![Jardulino's Top Langs](https://github-readme-stats-pearl-five-54.vercel.app/api/top-langs/?username=jardulino)
+![Jardulino's Top Langs](https://github-readme-stats-pearl-five-54.vercel.app/api/top-langs/?username=jardulino&layout=compact)
 
 ## Active Skills
 
